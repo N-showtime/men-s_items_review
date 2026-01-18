@@ -16,8 +16,8 @@
 - Docker/Docker-compose
 - Rakuten Ichiba API
 
-# AWS構成図
-<img width="995" alt="スクリーンショット 2020-05-07 11 14 01" src="https://user-images.githubusercontent.com/60876388/81247155-3ccde300-9054-11ea-91eb-d06eb38a63b3.png">
+# プロトタイプ（画面設計図）
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/Gj0KEnVsMEBDIqFSdV5pCp/%E4%BF%BA%E3%81%AE%E3%80%8C%E5%9E%A2%E6%8A%9C%E3%81%91%E7%BE%8E%E5%AE%B9%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0%E3%80%8D%E3%82%A2%E3%83%97%E3%83%AA?node-id=0-1&embed-host=share" allowfullscreen></iframe>
 
 # 機能一覧
 - ユーザー登録、ログイン機能(devise)
