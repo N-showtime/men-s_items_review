@@ -17,7 +17,31 @@
 - Rakuten Ichiba API
 
 # プロトタイプ（画面設計図）
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/Gj0KEnVsMEBDIqFSdV5pCp/%E4%BF%BA%E3%81%AE%E3%80%8C%E5%9E%A2%E6%8A%9C%E3%81%91%E7%BE%8E%E5%AE%B9%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0%E3%80%8D%E3%82%A2%E3%83%97%E3%83%AA?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+## プロトタイプ（画面設計図）
+
+### 新規登録・ログイン画面
+![新規登録・ログイン画面](images/新規登録・ログイン画面.png)
+
+### ホーム画面
+![ホーム画面](images/ホーム画面（おすすめや新着投稿を表示）.png)
+
+### アイテムの詳細画面
+![アイテムの詳細画面](images/アイテムの詳細画面.png)
+
+### セットの詳細画面
+![セットの詳細画面](images/セットの詳細画面.png)
+
+### 新規セットの投稿画面
+![新規セットの投稿画面](images/新規セットの投稿画面.png)
+
+### 検索画面
+![検索画面](images/検索画面.png)
+
+### マイページ
+![マイページ](images/マイページ.png)
+
+### プロフィール編集画面
+![プロフィール編集画面](images/プロフィール編集画面.png)
 
 # 機能一覧
 - ユーザー登録、ログイン機能(devise)
